@@ -11,3 +11,6 @@ Gracias Dios, por la inteligencia que me has dado, he logrado culminar con éxit
 
 # Día 2 de entrenamiento github
 Estoy practicando los comandos pull, push, fetch
+
+## Vamos bien, etoy aprendiendo git y github de la mejor menera.
+** Tengo que hecer el mejor, con Dios por delante y siempre conmigo
