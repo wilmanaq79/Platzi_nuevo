@@ -13,4 +13,4 @@ Gracias Dios, por la inteligencia que me has dado, he logrado culminar con éxit
 Estoy practicando los comandos pull, push, fetch
 
 ## Vamos bien, estoy aprendiendo git y github de la mejor menera.
-** Tengo que hecer el mejor, con Dios por delante y siempre conmigo
+** Tengo que hecer el mejor, con Dios por delante y siempre conmigo **
