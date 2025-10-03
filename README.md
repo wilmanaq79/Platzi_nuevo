@@ -17,3 +17,4 @@ Estoy practicando los comandos pull, push, fetch
 
 ### Vamos a trabajar con el coamndo FETCH.
 Este se utiliza para revisar los cambios antes de realizar el merge
+### ** Estos cambios los realizó desde mi rama, soy del depeloper1 **
